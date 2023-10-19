@@ -23,13 +23,13 @@ h3 {
   padding: 60px O;
   margin-left: 155px;
   background: #fff;
-  font-family: 'Arvo', Nunito Sans;
+  font-family: "Arvo", Nunito Sans;
 }
 .page_404 img {
   width: 100%;
 }
 .four_zero_four_bg {
-  background-image: url('../public/error.gif');
+  background-image: url("../public/error.gif");
   height: 400px;
   background-position: center;
 }
